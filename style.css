@@ -1,7 +1,17 @@
 *{
-    padding: 0;
-    margin: 0;
+    
      font-family: arial, verdana;
+
+
+}
+
+.boxed {
+    border: 5px solid green;
+    margin: 1px;
+    padding: 3px;
+    text-align: center;
+   
+
      
 
 }
